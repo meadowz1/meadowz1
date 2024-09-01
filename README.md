@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
-<h3 align="center">2cd Year Student at Wilfrid Laurier University</h3>
+<h3 align="center">2nd Year Student at Wilfrid Laurier University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meadowz1&label=Profile%20views&color=ffb6c1&style=flat" alt="meadowz1" /> </p>
 
