@@ -4,15 +4,13 @@
 
 - 🔭 I’m currently working on [a end-of-nights inventory system](https://github.com/meadowz1/outtakes)
 
-- 🌱 I’m currently learning **C++, C, React, AWS**
+- 🌱 I’m currently learning **C++, C, React, and AWS**
 
 - 👯 I’m looking to collaborate on **an A.I. based study group finder**
 
-- 💬 Ask me about **games**
+- 📫 Reach me at: **meadowzinc@gmail.com**
 
-- 📫 How to reach me **meadowzinc@gmail.com**
-
-- ⚡ Fun fact **I game pretty often**
+- ⚡ Fun fact: **I game pretty often**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
