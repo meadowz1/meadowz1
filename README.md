@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **an A.I. based study group finder**
 
-- 📫 Reach me at: **meadowzinc@gmail.com**
+- 📫 Reach me at: **meadowzmike@gmail.com**
 
 - ⚡ Fun fact: **I game pretty often**
 
